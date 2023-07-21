@@ -2,7 +2,7 @@
 # Simple Calculator Web Page Readme
 
 Welcome to the Simple Calculator web page project! This is a basic calculator application that performs simple math operations. With this calculator, users can add, subtract, multiply, and divide numbers through an intuitive web interface.
-
+[Visit Web Page](https://manidhareddy.github.io/Simple_Calculator/)
 ## Getting Started
 
 To use the Simple Calculator web page, follow these steps:
